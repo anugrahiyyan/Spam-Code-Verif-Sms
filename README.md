@@ -1,4 +1,4 @@
-# [SPAM SMS - C0DE VERIFICACTION] [GOJEK]
+# [SPAM SMS - C0DE VERIFICATION]
 ## Cara menggunakan
 Langkah pertama <br>
 ```
