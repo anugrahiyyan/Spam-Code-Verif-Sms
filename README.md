@@ -2,8 +2,8 @@
 ## Cara menggunakan
 Langkah pertama <br>
 ```
-git clone https://github.com/N00bCyberGBtrX/GDFR.git
-cd gojek_spam
+git clone https://github.com/anugrahiyyan/Spam-Code-Verif-Sms.git
+cd Spam-Code-Verif-Sms
 ```
 Langkah kedua <br>
 Kali ini kalian harus meng-registrasikan no hp target dahulu <br>
