@@ -2,10 +2,7 @@
 
 /* 
 GOJEK Spam Code
-C0ded by : Ardzz (Z0NK3X)
-Github Ilham HaX0r : https://github.com/ilhamhax0r
-Github Ardzz : https://github.com/ardzz
-Thank's to Ilham HaX0r
+C0ded by : Rhoades
 */
 $green  = "\e[92m";
 $red    = "\e[91m";
@@ -15,7 +12,7 @@ system("clear");
 sleep(2);
 echo "$green+---------------[# GO! - JEK - SPAM SMS #]---------------+\n";
 sleep(2);
-echo "$green+----------------------[# Magelang1337.com #]----------------------+\n";
+echo "$green+----------------------[# HSdxd~~ #]----------------------+\n";
 echo "\nNO HP 		: ";
 $no = trim(fgets(STDIN, 1024));
 echo "\nCOUNT 		: ";
@@ -56,6 +53,6 @@ for ($x=1; $x<=$loop; $x++) {
 	}
 }
 echo "$green+------------------------------------------------------+\n";
-echo "$red|      [#] Z0NK3X - BAC0DERS - Magelang1337 [#] [#] ilhamhax0r [#]    |\n";
+echo "$red|      [#] Bye Bye [#]    |\n";
 echo "$green+------------------------------------------------------+\n";
 ?>
